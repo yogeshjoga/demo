@@ -1,0 +1,19 @@
+h1{
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    text-align:center;
+    font-weight: 100;
+    font-family: Monospace;
+    font-size: 40px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color:plum  ;
+}
+nav{
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    font-family: Monospace;
+    display: flex;
+   justify-content: space-between;
+}
